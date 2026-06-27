@@ -1,2 +1,9 @@
 reference/
 .DS_Store
+
+node_modules/
+qa/
+qa_*.mjs
+package.json
+package-lock.json
+assets/generated_video_contact.jpg
